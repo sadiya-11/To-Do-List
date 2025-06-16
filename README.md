@@ -1,1 +1,1 @@
-# To-Do-List
+This project is a React-based Todo List Application that helps users manage their daily tasks efficiently. It allows users to add, edit, delete, and mark tasks as completed, to better organize their workflow. The user interface is designed with TailwindCSS for aresponsive look. This project combines key frontend technologies such as React , TailwindCSS for styling, and browser localStorage for persistence.
